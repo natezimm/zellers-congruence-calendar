@@ -1,1 +1,1 @@
-# zellers-congruence-calendar
+This program will print the monthly calendar of a month and year that is given by the user. Implemenation of Zeller's Congruence Formula is used to figure out the first day of any month. No Java date methods are used.
